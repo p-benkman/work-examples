@@ -1,4 +1,4 @@
-This repository showcases work from my three most recent positions including: 
+This repository showcases work[^*] from my three most recent positions including: 
 
 [End-User Documentation](https://github.com/p-benkman/work-examples/tree/main/End-User%20Documentation)
 - Viewer's Guides 
@@ -14,3 +14,5 @@ This repository showcases work from my three most recent positions including:
 - UI prototypes, wireframes
 - UI screens
 - UX developer documentation.
+
+[^*]: Note: All documents presented here are the exclusive intellectual property of the owners. All rights reserved. These documents, in whole or in part, may not be reproduced, translated, or reduced to any machine-readable form without the prior written approval of the copyright holder.
