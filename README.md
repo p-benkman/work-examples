@@ -15,4 +15,4 @@ This repository showcases work[^*] from my three most recent positions including
 - UI screens
 - UX developer documentation.
 
-[^*]: Note: All documents presented here are the exclusive intellectual property of the owners. All rights reserved. These documents, in whole or in part, may not be reproduced, translated, or reduced to any machine-readable form without the prior written approval of the copyright holder.
+[^*]: Note: © 2007-2023. All documents presented here are the exclusive intellectual property of the copyright holder. All rights reserved. These documents, in whole or in part, may not be reproduced, translated, or reduced to any machine-readable form without the prior written approval of the copyright holder.
