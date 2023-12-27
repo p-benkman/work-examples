@@ -1,7 +1,7 @@
 This repository showcases work[^*] from my three most recent positions including: 
 
 [End-User Documentation](https://github.com/p-benkman/work-examples/tree/main/End-User%20Documentation)
-- Viewer's Guides 
+- User Guides 
 - "Start Here" inserts
 - Technical installation instructions.
 
