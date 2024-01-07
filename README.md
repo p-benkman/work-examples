@@ -6,7 +6,7 @@ This repository showcases work[^*] from my three most recent positions including
 - Technical installation instructions.
 
 [Technical Documentation](https://github.com/p-benkman/work-examples/tree/main/Technical%20Documentation)
-- APIs (Swagger/YAML)
+- APIs (OpenAPI/Swagger/YAML)
 - Software administration/configuration/installation/reference/upgrade/user guides
 - Software release documentation (release notes, patches, hotfixes).
 
