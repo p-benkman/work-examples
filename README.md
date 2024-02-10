@@ -10,7 +10,7 @@ This repository showcases work[^*] from various roles throughout my career inclu
 - Software administration/configuration/installation/reference/upgrade/user guides
 - Software release documentation (release notes, patches, hotfixes).
 
-[Typography and Graphic design](https://github.com/p-benkman/work-examples/tree/main/Typography%20and%20Graphic%20Design)
+[Typography and Graphic Design](https://github.com/p-benkman/work-examples/tree/main/Typography%20and%20Graphic%20Design)
 - Example Prospectus 
 - Example fine-press typography (frontmatter, indexes)
 - Example cover art.
