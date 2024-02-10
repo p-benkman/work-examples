@@ -11,7 +11,8 @@ This repository showcases work[^*] from various roles throughout my career inclu
 - Software release documentation (release notes, patches, hotfixes).
 
 [Typography and Graphic Design](https://github.com/p-benkman/work-examples/tree/main/Typography%20and%20Graphic%20Design)
-- Example Prospectus 
+- Example Prospectus
+- Example catalogue covers and entries
 - Example fine-press typography (frontmatter, indexes)
 - Example cover art.
 
