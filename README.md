@@ -3,7 +3,7 @@ This repository showcases work[^*] from various roles throughout my career inclu
 [End-User Documentation](https://github.com/p-benkman/work-examples/tree/main/End-User%20Documentation)
 - User Guides 
 - "Start Here" inserts
-- Technical installation instructions.
+- Consumer electronics installation instructions.
 
 [Technical Documentation](https://github.com/p-benkman/work-examples/tree/main/Technical%20Documentation)
 - APIs (OpenAPI/Swagger/YAML)
@@ -11,7 +11,7 @@ This repository showcases work[^*] from various roles throughout my career inclu
 - Software release documentation (release notes, patches, hotfixes).
 
 [Typography and Graphic Design](https://github.com/p-benkman/work-examples/tree/main/Typography%20and%20Graphic%20Design)
-- Example Prospectus
+- Example prospectus
 - Example catalogue covers and entries
 - Example fine-press typography (frontmatter, indexes)
 - Example cover art.
