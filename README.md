@@ -1,4 +1,4 @@
-This repository showcases work[^*] from my three most recent positions including: 
+This repository showcases work[^*] from various roles throughout my career including: 
 
 [End-User Documentation](https://github.com/p-benkman/work-examples/tree/main/End-User%20Documentation)
 - User Guides 
