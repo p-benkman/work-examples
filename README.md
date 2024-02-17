@@ -8,7 +8,8 @@ This repository showcases work[^*] from various roles throughout my career inclu
 [Technical Documentation](https://github.com/p-benkman/work-examples/tree/main/Technical%20Documentation)
 - APIs (OpenAPI/Swagger/YAML)
 - Software administration/configuration/installation/reference/upgrade/user guides
-- Software release documentation (release notes, patches, hotfixes).
+- Software release documentation (release notes, patches, hotfixes)
+- Video(s) illustrating the Minerva Networks online tech docs repository funcionalilty.
 
 [Typography and Graphic Design](https://github.com/p-benkman/work-examples/tree/main/Typography%20and%20Graphic%20Design)
 - Example prospectus
